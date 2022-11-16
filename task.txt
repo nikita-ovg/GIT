@@ -1,0 +1,7 @@
+2. git clone (ссылка)
+3. cat > new.json / touch new.json
+4. git add .(все файлы)/ git add test_1.json test_2.json (или по одному файлу)
+5. git commit -m "add file ..." где -m это сообщение
+6. git push
+7. vim new.json
+8. git push
